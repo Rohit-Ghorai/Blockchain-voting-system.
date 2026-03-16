@@ -1,0 +1,10 @@
+Election Results
+----------------
+Date: 2025-08-16 11:40:28
+Total Votes Cast: 1
+Winner: Alice (1 votes)
+
+Vote Distribution:
+Alice: 1 votes
+Bob: 0 votes
+Charlie: 0 votes
